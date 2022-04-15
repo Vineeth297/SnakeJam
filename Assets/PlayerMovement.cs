@@ -74,6 +74,7 @@ public class PlayerMovement : MonoBehaviour
         _rb.velocity = velocity;
 		
 		
+		
     }
 	private void OnTriggerEnter(Collider other)
 	{
